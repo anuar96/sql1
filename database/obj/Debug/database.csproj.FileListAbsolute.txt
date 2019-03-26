@@ -1,0 +1,9 @@
+C:\Users\halfbloodprince\source\repos\database\database\bin\Debug\Database1.mdf
+C:\Users\halfbloodprince\source\repos\database\database\bin\Debug\Database1_log.ldf
+C:\Users\halfbloodprince\source\repos\database\database\bin\Debug\database.exe.config
+C:\Users\halfbloodprince\source\repos\database\database\bin\Debug\database.exe
+C:\Users\halfbloodprince\source\repos\database\database\bin\Debug\database.pdb
+C:\Users\halfbloodprince\source\repos\database\database\obj\Debug\database.csprojAssemblyReference.cache
+C:\Users\halfbloodprince\source\repos\database\database\obj\Debug\database.csproj.CoreCompileInputs.cache
+C:\Users\halfbloodprince\source\repos\database\database\obj\Debug\database.exe
+C:\Users\halfbloodprince\source\repos\database\database\obj\Debug\database.pdb
